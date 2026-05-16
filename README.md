@@ -1,8 +1,8 @@
-# TPMS-Bone-Scaffold-AI — AI-Optimized Design of Bone Scaffolds for Tissue Engineering
+<img width="2100" height="750" alt="cnn_training_history (2)" src="https://github.com/user-attachments/assets/6460ffef-900c-4483-9541-84b40716681f" /># TPMS-Bone-Scaffold-AI — AI-Optimized Design of Bone Scaffolds for Tissue Engineering
 
 **3D CNN-Based Prediction and Optimization of TPMS Scaffold Mechanical Properties**
 
-By [Your Name]
+By Somiya khan
 
 ---
 
@@ -54,24 +54,26 @@ Using Python and TensorFlow/Keras, the project:
 ## 📸 Screenshots
 
 ### Optimal Scaffold Design
-![Optimal Scaffold](optimal_bone_scaffold.png)
-*Figure 1: Optimal scaffold design (Diamond TPMS, 80% porosity, 407 µm pore size, predicted stiffness 685 MPa)*
+<img width="1800" height="1500" alt="optimal_bone_scaffold" src="https://github.com/user-attachments/assets/c62c4799-f672-4028-8ad1-34d147028bf5" />
+
+
 
 ### Model Performance
-![Model Performance](real_data_performance.png)
-*Figure 2: CNN predictions vs actual values (left) and training history (right) – R² = X.XX*
+<img width="2100" height="750" alt="cnn_predictions (1)" src="https://github.com/user-attachments/assets/3bf1af84-9fc0-4d19-9d91-dc0ad77b6043" />
+
+
 
 ### TPMS Architecture Comparison
-![TPMS Comparison](tpms_comparison.png)
-*Figure 3: Three TPMS scaffold architectures – Gyroid (left), Diamond (center), Primitive (right)*
+<img width="2100" height="750" alt="cnn_predictions (2)" src="https://github.com/user-attachments/assets/be021055-2a24-4250-977e-1418322b8ec1" />
+
+
+
 
 ### Stiffness Comparison
-![Stiffness Comparison](scaffold_comparison.png)
-*Figure 4: Stiffness comparison – Standard designs vs AI-optimized scaffold*
+<img width="2100" height="750" alt="cnn_training_history (2)" src="https://github.com/user-attachments/assets/2cd96bba-31f7-459e-b5e0-444247c62ee4" />
 
-### Real Experimental Validation Data
-![Real Data](real_experimental_data.png)
-*Figure 5: Real experimental data used for model validation (Source: Mirzavand et al., Scientific Reports 2025)*
+
+
 
 ---
 
