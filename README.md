@@ -1,4 +1,4 @@
-<img width="2100" height="750" alt="cnn_training_history (2)" src="https://github.com/user-attachments/assets/6460ffef-900c-4483-9541-84b40716681f" /># TPMS-Bone-Scaffold-AI — AI-Optimized Design of Bone Scaffolds for Tissue Engineering
+
 
 **3D CNN-Based Prediction and Optimization of TPMS Scaffold Mechanical Properties**
 
@@ -65,15 +65,6 @@ Using Python and TensorFlow/Keras, the project:
 
 ### TPMS Architecture Comparison
 <img width="2100" height="750" alt="cnn_predictions (2)" src="https://github.com/user-attachments/assets/be021055-2a24-4250-977e-1418322b8ec1" />
-
-
-
-
-### Stiffness Comparison
-<img width="2100" height="750" alt="cnn_training_history (2)" src="https://github.com/user-attachments/assets/2cd96bba-31f7-459e-b5e0-444247c62ee4" />
-
-
-
 
 ---
 
@@ -166,4 +157,3 @@ These findings provide a foundation for further studies in:
 
 ---
 
-## 📊 Model Architecture
